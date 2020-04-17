@@ -13,3 +13,9 @@ Simple full stack application to display name and Id from a database.
 ### Tech Stack:
 * React?
 ### Requirements:
+
+
+
+## Architecture Diagram
+
+![Architecture Diagram of InfoApplication](ArchitectureDiagram.png)
